@@ -14,9 +14,8 @@ BytePackAI is a machine learning-based tool designed to classify executable file
 
 To get started with BytePackAI, follow these steps:
 
-1. **Clone the repository**:
-
    git clone https://github.com/gabriel-biudes-dev/BytePackAI.git
+   
    cd BytePackAI
 
     Install dependencies: BytePackAI requires Python 3.x and several Python libraries. Install them using pip:
