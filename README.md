@@ -69,16 +69,6 @@ After training, the tool evaluates the model's performance on a test set and pri
     Accuracy: The percentage of correct predictions.
     Classification Report: Detailed precision, recall, and F1-score for both packed and unpacked classes.
 
-Directory Structure
-
-The project expects the following directory structure:
-
-BytePackAI/
-├── bytepackai.py       # Main script for training and classification
-├── packed_detector.pkl      # Saved machine learning model (pre-trained or after training)
-├── requirements.txt         # Required Python dependencies
-└── README.md                # Project documentation
-
 Requirements
 
     Python 3.x
