@@ -16,7 +16,7 @@ To get started with BytePackAI, follow these steps:
 
 1. **Clone the repository**:
 
-   git clone https://github.com/yourusername/BytePackAI.git](https://github.com/gabriel-biudes-dev/BytePackAI.git
+   git clone https://github.com/gabriel-biudes-dev/BytePackAI.git
    cd BytePackAI
 
     Install dependencies: BytePackAI requires Python 3.x and several Python libraries. Install them using pip:
@@ -28,7 +28,6 @@ To get started with BytePackAI, follow these steps:
         scikit-learn
         joblib
 
-Usage
 Train the Model
 
 To train the model, you need two directories: one containing packed executable files and another with unpacked files. Run the following command:
